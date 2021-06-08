@@ -16,6 +16,6 @@ Aquest projecte ha estat realitzat de forma grupal entre Adrià Crusi López i J
 
 En el repositori viem el fitxer PAC_respostes.pdf on es comenta les respostes a qüestions plantejades a la pac.
 
-El segon que veiem és un script anomenat Pokedex.ipymb on figura el codi que hem creat en python per tal de fer de fer la neteja del dataset i crear el csv final.
+El segon que veiem és un juupy anomenat Pokedex.ipymb on figura el codi que hem creat en jupyter per tal de fer de fer la neteja del dataset i crear el csv final.
 
 Finalment, el darrer fitxer és el propi csv resultant anomenat Pokedex.csv
