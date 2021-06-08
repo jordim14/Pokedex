@@ -5,7 +5,8 @@
 Aquesta pràctica s'ha realitzat sota el context de l'assignatura Tipologia i cicle de vida de les dades, pertanyent a el Màster en Ciència de Dades de la
 Universitat Oberta de Catalunya. En ella, s'apliquen tècniques de neteja de dads mitjançant el llenguatge de programació python sobre el dataset Complete Pokemon Dataset
 disponible al següente enllanç a kaggle: 
-https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420?select=pokedex_%28Update_05.20%29.csv
+
+(https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420?select=pokedex_%28Update_05.20%29.csv)
 
 ## Equip
 
