@@ -18,4 +18,4 @@ En el repositori viem el fitxer PAC_respostes.pdf on es comenta les respostes a 
 
 El segon que veiem és un juupy anomenat Pokedex.ipymb on figura el codi que hem creat en jupyter per tal de fer de fer la neteja del dataset i crear el csv final.
 
-Finalment, el darrer fitxer és el propi csv resultant anomenat Pokedex.csv
+Finalment, els darrer fitxer és el propi csv resultant anomenat Pokedex.csv i l'orginal pokedex_(Update_05.20).csv
