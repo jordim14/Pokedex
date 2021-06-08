@@ -14,7 +14,7 @@ Aquest projecte ha estat realitzat de forma grupal entre Adrià Crusi López i J
 
 ## Fitxers
 
-En el repositori viem el fitxer PAC_respostes.pdf on es comenta les respostes a qüestions plantejades a la pac.
+En el repositori viem el fitxer word PAC2_JORDIADRIA on es comenta les respostes a qüestions plantejades a la pac.
 
 El segon que veiem és un juupy anomenat Pokedex.ipymb on figura el codi que hem creat en jupyter per tal de fer de fer la neteja del dataset i crear el csv final.
 
